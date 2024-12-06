@@ -1,3 +1,5 @@
+# Ревью
+
 # Python-код
 
 Спасибо за предоставленный код, ты проделал большую работу. Давай разберёмся, как его можно улучшить, чтобы сделать его ещё лучше.
@@ -133,3 +135,21 @@ pm.expect(pm.response.text()).not.to.have.string('N/A');
 ## Резюме
 
 Проект отправлен на доработку, жду исправленую версию. Удачи!
+
+### Полезные ссылки
+
+https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html - документация по Elasticsearch
+
+https://habr.com/ru/articles/489924/ - полезная статья на Хабр по Elasticsearch
+
+https://habr.com/ru/articles/767558/ - информация по линтерам
+
+https://habr.com/ru/companies/yandex_praktikum/articles/743422/ - хорошая статья по использованию JOIN
+
+https://habr.com/ru/companies/wunderfund/articles/736526/ - статья по обработке исключений
+
+https://peps.python.org/pep-0257/ - информация по документации
+
+https://ramziv.com/article/40 - как использовать переменные окружения
+
+https://docs.python.org/3/library/logging.html - документация по библиотеке logging
